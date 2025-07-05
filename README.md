@@ -7,4 +7,4 @@ with **Nuxt 3**, **Vue 3**, **TypeScript**, and **Tailwind CSS**.
 - 🛠️ Stack: Nuxt, Vue, TypeScript, Tailwind, GraphQL
 - 🔗 Recent: [Nuxt MPA boilerplate](https://nuxt-mpa.netlify.app/)
 
-📫 Reach me: [@azhodev](https://t.me/azhodev) · [azhodev@gmail.com](mailto:azhodev@gmail.com)
+📫 Reach me: [@avazmore](https://t.me/avazmore) · [azho.dev@gmail.com](mailto:azho.dev@gmail.com)
