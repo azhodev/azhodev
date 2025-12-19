@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I'm **Avaz**, a frontend developer building clean and performant web apps.
+I'm **Avaz**, a frontend developer building clean and performant web sites & SSR/SPA apps.
 
-- ⚡ Focus: SSR/SPA apps, component systems, clean UX
-- 🛠️ Stack: **Nuxt**, **Vue**, **TypeScript**, **Tailwind CSS**, **Strapi**, **Postgres**, **S3** and **FabricJS**. 
+🛠️ Tech Stack
 
-📫 Reach me: [@azhodev](https://t.me/azhodev)
+**Frontend**: Nuxt 3, Vue 3, TypeScript, Tailwind CSS, FabricJS
+**Backend/BaaS**: Strapi CMS, PostgreSQL, S3 Storage
+**Tools**: Figma, Git, Docker
+
+📫 Reach me on Telegram: [@azhodev](https://t.me/azhodev)
