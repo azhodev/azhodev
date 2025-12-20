@@ -6,7 +6,7 @@ I'm **Avaz**, a frontend developer building clean, performant websites and SSR/S
 
 • **Frontend**: Nuxt 3, Vue 3, TypeScript, Tailwind CSS, FabricJS
 
-• **Backend/BaaS**: Strapi CMS, PostgreSQL, S3 Storage
+• **Backend**: Strapi CMS, PostgreSQL, S3 Storage
 
 • **Tools**: Figma, Git, Docker
 
